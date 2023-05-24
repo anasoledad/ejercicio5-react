@@ -1,0 +1,13 @@
+#root{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #86054f;
+    background-image: linear-gradient(225deg, #86054f 0%, #6e3b9a 50%, #194565 100%);
+    
+  
+  }
+  
+  .mainPage{
+    flex-grow: 1;
+  }
